@@ -10,7 +10,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&color=00FF00&center=true&vCenter=true&width=600&height=30&duration=4400&pause=3000&repeat=true&lines=Studying+Computer+Science+at+University+of+York)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&color=00FF00&center=true&vCenter=true&width=600&height=30&duration=4600&pause=3000&repeat=true&lines=Currently+learning+TypeScript%2C+Python%2C+Java+%26+Assembly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&color=00FF00&center=true&vCenter=true&width=600&height=30&duration=4600&pause=3000&repeat=true&lines=Currently+learning+TypeScript%2C+Python%2C+Java%2C+Assembly)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Share+Tech+Mono&size=18&color=00FF00&center=true&vCenter=true&width=600&height=30&duration=4800&pause=3000&repeat=true&lines=Recently+co-founded+Social+Hub+⚡)](https://git.io/typing-svg)
 
